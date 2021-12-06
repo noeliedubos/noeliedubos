@@ -1,3 +1,4 @@
+![Cover](https://github.com/noeliedubos/noeliedubos/blob/main/img/No%C3%ABlieDubos.png)
 <h1 align="center">Hi 👋, I'm Noëlie Dubos</h1>
 <h3 align="center">A passionate frontend developer / UI UX Addict / from Reims</h3>
 
